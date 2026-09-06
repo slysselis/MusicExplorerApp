@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_browse"
+        android:icon="@drawable/ic_trending"
+        android:title="Browse" />
+    <item
+        android:id="@+id/nav_collection"
+        android:icon="@drawable/ic_favorite"
+        android:title="Collection" />
+</menu>
